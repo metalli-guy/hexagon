@@ -1,2 +1,0 @@
-# hexagon
-KTHack2020
